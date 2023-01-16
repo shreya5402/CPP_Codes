@@ -1,5 +1,4 @@
-#include<iostream>
-#include<limits.h>
+#include<bits/stdc++.h>
 using namespace std;
 int countDigits(int x){
   int res=0;
