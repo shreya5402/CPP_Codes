@@ -12,4 +12,4 @@ int main(){
   return 0;
 }
 
-#Time complexity = O(1)
+//Time complexity = O(1)
