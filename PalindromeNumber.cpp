@@ -16,9 +16,9 @@ int main(){
   int n;
   cin>>n;
   if(isPal(n)==1)
-    cout<<"true";
+    cout<<"yes";
   else
-    cout<<"false";
+    cout<<"no";
   return 0;
 }
 
