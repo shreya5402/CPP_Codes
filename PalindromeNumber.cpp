@@ -15,7 +15,10 @@ int isPal(int x){
 int main(){
   int n;
   cin>>n;
-  cout<<(bool)isPal(n);
+  if(isPal(n)==1)
+    cout<<"true";
+  else
+    cout<<"false";
   return 0;
 }
 
