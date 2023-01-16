@@ -1,3 +1,5 @@
+//iterative implementation 
+
 #include<iostream>
 #include<limits.h>
 #include<math.h>
