@@ -1,3 +1,5 @@
+//to check for a palindrome string:-
+
 class Solution {
 public:
     bool isPalindrome(int x) {
