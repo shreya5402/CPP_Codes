@@ -1,6 +1,4 @@
-#include<iostream>
-#include<limits.h>
-#include<math.h>
+#include<bits/stdc++.h>
 using namespace std;
 int countDigits(int x){
   return floor(log10(x))+1;
